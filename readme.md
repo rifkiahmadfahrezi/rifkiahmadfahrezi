@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rifki ahmad fahrezi</h1>
-<h3 align="center">a Jr frontend web developer from Indonesia</h3>
+<h3 align="center">a Jr frontend web developer based in Indonesia</h3>
 
 - 🌱 I’m currently learning **ReactJS, Typescript**
 
