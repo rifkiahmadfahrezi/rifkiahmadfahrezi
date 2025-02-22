@@ -7,7 +7,7 @@
 </p>
 
 - 🌱 Currently focusing on mastering **Next.js** and **TypeScript**  
-- 💻 Explore my portfolio: [rifkiaf.vercel.app](https://rifkiaf.vercel.app)  
+- 💻 Website: [rifkiaf.my.id](https://rifkiaf.my.id)  
 - ✍️ I share insights and tutorials on [Medium](https://rifkiaf.medium.com/)  
 - 📫 Reach me at: **rifkiaf589@gmail.com**  
 - 🎨 Checkout my UI design on [Dribbble](https://dribbble.com/rifkiaf30)
